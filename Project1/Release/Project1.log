@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\誰\desktop\圖學導論\reversi\sdl2_image-2.0.3\include\sdl_image.h(27): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  Reversi.cpp
